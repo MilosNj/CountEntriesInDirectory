@@ -1,4 +1,4 @@
-# CountEntriesInDirectory
+# Count Entries In Directory
 Simple NodeJS app for counting entries in a directory (non recursively)
 
 ## How to run the app
