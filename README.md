@@ -1,5 +1,5 @@
 # Count Entries In Directory
-Simple NodeJS app for counting entries in a directory (non recursively)
+Simple NodeJS app for counting entries in a directory (non recursively).
 
 ## How to run the app
 After cloning the repo run `npm i` to install the yargs package.
