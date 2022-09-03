@@ -1,0 +1,22 @@
+{
+  "name": "countentriesindirectory",
+  "version": "1.0.0",
+  "description": "Simple NodeJS app for counting entries in a directory (non recursively).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilosNj/CountEntriesInDirectory.git"
+  },
+  "author": "MilosNjegovanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilosNj/CountEntriesInDirectory/issues"
+  },
+  "homepage": "https://github.com/MilosNj/CountEntriesInDirectory#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
